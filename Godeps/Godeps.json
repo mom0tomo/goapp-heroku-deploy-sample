@@ -1,0 +1,12 @@
+{
+	"ImportPath": "github.com/mom0tomo/goapp-heroku-deploy-sample",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/urfave/negroni",
+			"Comment": "v0.3.0",
+			"Rev": "5dbbc83f748fc3ad38585842b0aedab546d0ea1e"
+		}
+	]
+}
